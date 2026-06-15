@@ -205,8 +205,6 @@ const almeda = {
 | Degree | Institution | Period | Result |
 |:-------|:-----------|:-------|:-------|
 | 🎓 BSc (Hons) in Information Technology | Sri Lanka Institute of Information Technology (SLIIT) | Feb 2023 – Present | In Progress |
-| 📚 G.C.E Advanced Level (Tamil Medium) | St. Anthony's College, Wattala | 2020 – 2022/2023 | 2C, 1S |
-| 📖 G.C.E Ordinary Level (Tamil Medium) | St. Anthony's College, Wattala | 2018 – 2019 | 3A, 6C |
 
 </div>
 
@@ -227,7 +225,7 @@ const almeda = {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/almeda-ranjith" target="_blank">
+  <a href="https://www.linkedin.com/in/almedaranjith/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:almeda@email.com">
